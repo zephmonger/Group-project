@@ -1,0 +1,24 @@
+
+#logo{
+	width:30px;
+	height: 30px;
+}
+
+
+body { 
+background-color: black;
+ }
+
+
+
+ .card-title {
+ 	background-color: black;
+ 	color: red;
+ }
+
+
+ .card-text{
+ 	background-color: black;
+ 
+ 	color: white;
+ }

@@ -1,0 +1,40 @@
+body{
+	background-image: url('../image/bg.jpg');
+	background-attachment: fixed ;
+	background-size:cover ;
+	background-position: center center; 
+	background-repeat: no-repeat;
+	color: white;
+}
+#logo{
+	width:120px;
+	height: 80px;
+}
+
+.carouselImages{
+	height: 930px:
+	width: 666px;
+}
+
+/*body { 
+background-color: black;
+ }
+
+*/
+
+ .card-title {
+ 	background-color: black;
+ 	color: red;
+ }
+
+
+ .card-text{
+ 	background-color: black;
+ 
+ 	color: white;
+ }
+ #allTitle{
+ font-family: 'Monoton', cursive;
+ 	color: #7150C7;
+ 	text-shadow: 2px 2px darkblue;
+ }
